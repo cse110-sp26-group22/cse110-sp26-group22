@@ -1,6 +1,7 @@
-# 1.50-Costco-Devs-Team-22-CSE-110
+# **1.50-Costco-Devs-Team-22-CSE-110**
 
-## Sctions 
+## Sections 
+- [Admin](#admin)
 
 # Admin
 - Team branding materials
