@@ -3,7 +3,7 @@
 ## Sections 
 - [Admin](#admin)
 
-# Admin
+### Admin
 - Team branding materials
 - Team page
 - Team video
