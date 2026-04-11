@@ -11,7 +11,9 @@
   
 ### Attendance
 Members Attended: Angel, Dmitri, Lucien, Anirudh, Sirtaj, Kaung
+
 Members w/ Communicated Absence: Brenda, Sean
+
 Members w/ Uncommunicated Absence: Sofia, Yannis, Benjamin
 
 ### Team Branding
