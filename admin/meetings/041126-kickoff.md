@@ -1,5 +1,8 @@
 # Kickoff Meeting - 4/11/2026
 
+Time: 10am-11am
+Type: Virual through Google Meet
+
 ## Agenda
 - [Kickoff Meeting - 4/11/2026](#kickoff-meeting---4112026)
   - [Agenda](#agenda)
