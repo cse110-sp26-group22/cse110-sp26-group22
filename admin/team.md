@@ -52,12 +52,13 @@ I am a baller
 ---
 
 ### Anirudh Nayak
-- **Role:** [Role]
-- **Major:** [Major] @ UCSD
-- **About:** [Brief bio — 1-2 sentences]
+- **Role:** Individual contributor
+- **Major:** Computer Science @ UCSD
+- **About:** Enjoys manga and rhythm games. Tries to be up-to-date with current events.
+Continually seeking ways to optimize the development experience.
 - **GitHub:** [a2nayak](https://github.com/a2nayak)
 
-> "[Fun quote]" — [Name]
+> "You can keep your statistics. I prefer the magic. " — some ssbm fan coping, probably
 
 ---
 
@@ -114,8 +115,8 @@ I am a baller
 
 ### Yannis Smith
 - **Role:** [Role]
-- **Major:** [Major] @ UCSD
-- **About:** [Brief bio — 1-2 sentences]
+- **Major:** CS @ UCSD
+- **About:** I like to do stuff and play stuff.
 - **GitHub:** [Ywreckz](https://github.com/Ywreckz)
 
 > "[Fun quote]" — [Name]
@@ -134,10 +135,10 @@ I am a baller
 
 ### Sirtaj Gill
 - **Role:** [Role]
-- **Major:** [Computer Science] @ UCSD
+- **Major:** [Major] @ UCSD
 - **About:** Likes video games, basketball and watching reels. 
-- **GitHub:** [S5gill](https://github.com/s5gill)
+- **GitHub:** [Username](https://github.com/USERNAME)
 
-> "Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do." — [H. Jackson Brown Jr.]
+> "LeGOAT James" — [Name]
 
 ---

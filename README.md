@@ -5,5 +5,5 @@
 
 ### Admin
 - Team branding materials
-- Team page
+- [Team Page](admin/team.md)
 - Team video
