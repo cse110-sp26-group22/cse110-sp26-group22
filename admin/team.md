@@ -31,11 +31,11 @@
 
 ### Angel Thakur
 - **Role:** Team lead
-- **Major:** Software Engineer @ UCSD
-- **About:** Loves reading, working out and playing video games especially Valorant
-- **GitHub:** [Username](https://github.com/USERNAME)
+- **Major:** Computer Science @ UCSD
+- **About:** Loves reading, metal-fueled workouts and playing video games, especially gachas and fps
+- **GitHub:** [Username](https://github.com/angel-thakur)
 
-> "[Fun quote]" — [Name]
+> "High cortisol warrior. Nothing to my name but hopes and dreams rn." — [Angel]
 
 ---
 
@@ -49,6 +49,7 @@
 
 meaning: don't fear a man who do 20 straight bets, fear a man who does a single parlay that needs 20 things to happen.
 I am a baller
+
 ---
 
 ### Anirudh Nayak
