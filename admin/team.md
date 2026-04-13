@@ -33,7 +33,7 @@
 - **Role:** Team lead
 - **Major:** Computer Science @ UCSD
 - **About:** Loves reading, metal-fueled workouts and playing video games, especially gacha and fps games. Has a background in backend SWE and is excited to learn from others. Really hopes they'll be a good team lead. 
-- **GitHub:** [Username](https://github.com/angel-thakur)
+- **GitHub:** [angel-thakur](https://github.com/angel-thakur)
 
 > "High cortisol warrior. Nothing to my name but hopes and dreams rn." — Angel
 
