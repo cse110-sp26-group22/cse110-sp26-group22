@@ -35,7 +35,7 @@
 - **About:** Loves reading, metal-fueled workouts and playing video games, especially gacha and fps games. Has a background in backend SWE and is excited to learn from others. Really hopes they'll be a good team lead. 
 - **GitHub:** [angel-thakur](https://github.com/angel-thakur)
 
-> "High cortisol warrior. Nothing to my name but hopes and dreams rn." — Angel
+> "High cortisol warrior. Running exclusively on hopes and dreams." — Angel
 
 ---
 
