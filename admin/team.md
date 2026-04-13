@@ -52,12 +52,13 @@ I am a baller
 ---
 
 ### Anirudh Nayak
-- **Role:** [Role]
-- **Major:** [Major] @ UCSD
-- **About:** [Brief bio — 1-2 sentences]
+- **Role:** Individual contributor
+- **Major:** Computer Science @ UCSD
+- **About:** Enjoys manga and rhythm games. Tries to be up-to-date with current events.
+Continually seeking ways to optimize the development experience.
 - **GitHub:** [a2nayak](https://github.com/a2nayak)
 
-> "[Fun quote]" — [Name]
+> "You can keep your statistics. I prefer the magic. " — some ssbm fan coping, probably
 
 ---
 
