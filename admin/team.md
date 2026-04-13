@@ -84,7 +84,7 @@ Continually seeking ways to optimize the development experience.
 
 ### Sean Zemlyak
 - **Role:** [Role]
-- **Major:** [Major] @ UCSD
+- **Major:** Computer Science @ UCSD
 - **About:** [Brief bio — 1-2 sentences]
 - **GitHub:** [szemlyak1](https://github.com/szemlyak1)
 
