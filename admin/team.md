@@ -65,11 +65,11 @@ Continually seeking ways to optimize the development experience.
 
 ### Benjamin Michael
 - **Role:** [Role]
-- **Major:** [Major] @ UCSD
+- **Major:** Computer Science @ UCSD
 - **About:** Big manga fan, loves strategy and story driven games and shows. Hates going to RIMAC (I feel u)
 - **GitHub:** [BenKMichael](https://github.com/BenKMichael)
 
-> "[Fun quote]" — [Name]
+> "I am the best programmer on the planet, given divine intellect like the Bible. I wrote a compiler." — T.D
 
 ---
 
