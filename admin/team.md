@@ -126,9 +126,9 @@ Continually seeking ways to optimize the development experience.
 
 ### Lucien Chen
 - **Role:** [Role]
-- **Major:** [Major] @ UCSD
-- **About:** Pro gamer. Plays for UCSD esports team. From China. Passionate about pro-gaming and programming
-- **GitHub:** [Username](https://github.com/USERNAME)
+- **Major:** Computer Science @ UCSD
+- **About:** Pro gamer. Plays for UCSD esports Apex team. From China. Passionate about pro-gaming and programming. I have experiences in: 1. DevOps: Hosting and managing multi game servers for R5Reloaded, I helped modified and compiled the Server SDK and updates the scripts. 2. Backend development for website: Database, REST API design. My skill set includes: Server Hosting, Python, C/Cpp, Java, JavaScript(Node JS). 
+- **GitHub:** [Lucien2714](https://github.com/Lucien2714)
 
 > "[Fun quote]" — [Name]
 
