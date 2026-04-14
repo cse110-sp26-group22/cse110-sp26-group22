@@ -136,10 +136,10 @@ Continually seeking ways to optimize the development experience.
 
 ### Sirtaj Gill
 - **Role:** [Role]
-- **Major:** [Major] @ UCSD
+- **Major:** [Computer Science] @ UCSD
 - **About:** Likes video games, basketball and watching reels. 
-- **GitHub:** [Username](https://github.com/USERNAME)
+- **GitHub:** [S5gill](https://github.com/s5gill)
 
-> "LeGOAT James" — [Name]
+> "Your time is limited, so don't waste it living someone else's life." — [Steve Jobs]
 
 ---
