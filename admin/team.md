@@ -115,12 +115,12 @@ Continually seeking ways to optimize the development experience.
 ---
 
 ### Yannis Smith
-- **Role:** [Role]
+- **Role:** npc
 - **Major:** CS @ UCSD
 - **About:** I like to do stuff and play stuff.
 - **GitHub:** [Ywreckz](https://github.com/Ywreckz)
 
-> "[Fun quote]" — [Name]
+> "hello" — Yannis Smith
 
 ---
 
