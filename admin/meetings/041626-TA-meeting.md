@@ -1,9 +1,13 @@
 # TA Meeting - 4/16/2026
 
 Time: 1 pm - 1:30 pm
+
 Type: Virtual (Zoom)
+
 Members Attended: Angel, Dmitri, Brenda, Sofia, Sean, Ben, Kaung, Sirtaj, Yannis, Anirudh
+
 Members Absent: Lucien (communicated that he had class ahead of time)
+
 
 ## Agenda
 - Introductions: name, year, major, contributions to assignments so far
