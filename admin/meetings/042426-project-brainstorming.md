@@ -3,7 +3,7 @@
 Time: 4pm - 5pm @ Geisel
 
 
-Attendance: Angel, Brenda, Ben, Sean, Lucien, Sofia, Anirudh, Dmitri, Yannis
+Attendance: Angel, Brenda, Ben, Sean, Lucien, Sofia, Anirudh, Dmitri, Yannis, Kaung
 
 
 Members Absent: Sitraj (communicated)
